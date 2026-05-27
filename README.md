@@ -5,7 +5,7 @@ Create a random monster for the User to battle. User would pick class and the mo
 
 
 
----Other Ideas---
+---Other Ideas--- <br>
 "Sports Site" https://www.freepublicapis.com/free-sports-api
 Generate a random event. Find a league, team, or player. List facts of data when retrieved. Make site fun and interactive (more ideas to brainstorm).
 
