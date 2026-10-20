@@ -6,4 +6,4 @@ Create a random monster for the User to battle. User would pick class and the mo
 
 **Flowchart:** https://www.figma.com/board/BZ6ol2LWDjHL8yyf8XoTYa/Flow-chart--Community-?node-id=5002-1882&t=xuCcidCZy5ADO3Oy-1
 
-**DB_Diagram:** https://drive.google.com/file/d/1-q3sEgaAdmbFLu22S9NNHfwKlwy_xQAo/view?usp=sharing
+**DB_Diagram:** https://drive.google.com/file/d/1GVCTUw5FtTK6Xggm87iww0lPjv1QJgzn/view?usp=drive_link
