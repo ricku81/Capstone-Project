@@ -8,4 +8,4 @@ Create a random monster for the User to battle. User would pick class and the mo
 ![Flowchart](docs/workflow-diagram.png)
 
 ## Database Diagram: 
-![DB Diagram](docs/database-diagram.png)
+![DB Diagram](docs/database-diagram1.png)
