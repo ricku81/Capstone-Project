@@ -4,6 +4,6 @@
 Create a random monster for the User to battle. User would pick class and the monster would be generated randomly depending on User's current level. User's character will be saved via Local Storage (my API to hold users). Will need to figure out how to create enviroment. Maybe make a consistent area for all encounters, like a "game board?"
 
 
-**Flowchart:** https://www.figma.com/board/BZ6ol2LWDjHL8yyf8XoTYa/Flow-chart--Community-?node-id=5002-1882&t=xuCcidCZy5ADO3Oy-1
+**Flowchart:** ![Flowchart](docs/workflow-diagram.png)
 
-**DB_Diagram:** https://drive.google.com/file/d/1GVCTUw5FtTK6Xggm87iww0lPjv1QJgzn/view?usp=drive_link
+**DB_Diagram:** ![DB Diagram](docs/database_diagram.png)
